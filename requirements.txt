@@ -1,0 +1,3 @@
+fastapi==0.95.0
+sqladmin==0.10.1
+SQLAlchemy==2.0.7
